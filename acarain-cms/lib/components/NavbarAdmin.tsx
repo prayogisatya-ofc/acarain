@@ -55,7 +55,7 @@ export default function NavbarAdmin() {
                         <div className="w-10 rounded-full">
                             <img
                                 alt="Tailwind CSS Navbar component"
-                                src="https://ui-avatars.com/api/?name=Prayogi+Setiawan" />
+                                src="https://ui-avatars.com/api/?name=Admin" />
                         </div>
                     </div>
                     <ul
